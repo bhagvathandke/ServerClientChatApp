@@ -1,4 +1,4 @@
-# ServerClientChatApp-main
+# ServerClientChatApp
 
 COMPANY : CODTECH IT SOLUTIONS
 
